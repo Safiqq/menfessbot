@@ -1,0 +1,13 @@
+{
+  "name": "menfessbot",
+  "version": "1.0.0",
+  "description": "menfessbot",
+  "main": "index.js",
+  "author": "menfessitb",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "twit": "^2.2.11"
+  }
+}
